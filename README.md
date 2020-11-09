@@ -1,2 +1,2 @@
-# hola-mundo-en-java
-Programa "hola mundo" en java
+# hola-mundo-en-python
+Programa "hola mundo" en python
