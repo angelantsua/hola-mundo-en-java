@@ -1,3 +1,5 @@
 # Muestra por pantalla la frase "Hola mundo!"
-print("Hola mundo!")
-print("Aquí estamos haciendo pruebas con Git.")
+naranja = "\033[1;33m";
+azul = "\033[4;34m";
+print(naranja + "Hola mundo!")
+print(azul + "Aquí estamos haciendo pruebas con Git.")
